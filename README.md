@@ -1,4 +1,4 @@
-# Random-Quote-Generator
+# Random Quote Generator
 
 Detta projekt är en enkel webbaserad applikation som genererar slumpmässiga citat från en samling fördefinierade citat. Den
  använder HTML, CSS, JavaScript och JSON för att visa citaten.
